@@ -1,4 +1,4 @@
 lyonverre
 =========
 
-https://rawgithub.com/didier-coignet/lyonverre/blob/master/index.html
+http://didier-coignet.github.io/lyonverre/
